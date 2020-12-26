@@ -64,7 +64,7 @@
         "description": ""
       },
       {
-        "school": "Universit of Missouri - Columbia",
+        "school": "University of Missouri - Columbia",
         "degree": "Psychology",
         "graduated": "May 2005",
         "description": ""
@@ -72,17 +72,11 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      } //,
-      // {
-      //   "company": "Super Cool Studio",
-      //   "title": "Junior bug fixer",
-      //   "years": "March 2007 - February 2010",
-      //   "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      // }
+        "company": "Jack Henry & Associates",
+        "title": "Software Engineer",
+        "years": "2013 - 2020",
+        "description": "Utilized C# and SQL to develop WPF applications to efficiently extract and convert hundreds of terabytes of legacy financial data from numerous different core banking systems. Worked with research and development team on design and implementation of in-house conversion applications. Refactored existing applications to increase speed and produce more accurate output. Drove coordination between team members and management by organizing meetings to provide project updates"
+      }
     ],
     "skills": [
       {
