@@ -80,28 +80,28 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
         "name": "C#",
         "level": "95%"
       },
       {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "SQL",
+        "level": "95%"
       },
       {
         "name": "MongoDB",
@@ -122,24 +122,6 @@
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
         "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
