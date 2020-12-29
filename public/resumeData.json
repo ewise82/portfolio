@@ -128,12 +128,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Eric worked under me as a software engineer utilizing C# and SQL to convert PPI financial data for the financial sector for well over 5 years. We utilized his skills to convert some incredibly complex systems like; ImageCenter, 4Sight, COWWW, Director, Onbase, FIS, AFS, DataTREEVE, Bluepoint, and many-many more. This required a high level of technical ability to understand SQL databases and proprietary data formats, in order to write them to a common format any target system would be able to accept. Unlike many software engineers, Eric has a vast amount of experience communicating with customers and project managers. What he did was so complex, it put him on the front line communicating directly with both backend and front end users. He was a service/project based engineer, meaning he completed contracted work and was not a support rep depending on re-occurring fees. Everything he completed had financials' tied directly to the successful completion of work line items. He successfully completed work and recognized revenue for our group at a high level. All work was tied to a survey system and rated by the customer. Eric kept a high well above average survey score.",
+        "user": "Christopher Lukavsky, Manager at Jack Henry & Associates"
       }
     ]
   }
