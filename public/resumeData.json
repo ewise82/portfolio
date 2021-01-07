@@ -85,6 +85,10 @@
       {
         "name": "Python",
         "level": "60%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "95%"
       }
     ]
   },
